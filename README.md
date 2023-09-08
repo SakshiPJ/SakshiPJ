@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://internet-start.net/?q=animated+coding+GIF&utm_source=chromestore&utm_campaign=chrome&utm_medium=extension#gsc.tab=1&gsc.q=animated%20coding%20GIF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshipj&label=Profile%20views&color=0e75b6&style=flat" alt="sakshipj" /> </p>
 
