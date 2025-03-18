@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshipj&label=Profile%20views&color=0e75b6&style=flat" alt="sakshipj" /> </p>
 
-- 🔭 I’m currently working on **HiPaaS Projects**
+- 🔭 I’m currently working on **SoftTEch Cloud Technologies**
 
 - 🌱 I’m currently learning **SQL, Vue JS, Angular**
 
